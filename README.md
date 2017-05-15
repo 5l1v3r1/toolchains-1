@@ -1,6 +1,6 @@
 # aarch64-cortex_a53-linux-gnueabi
 
-GCC 6.3.0 - Build 1.01.20170516
+UBER 6.3.1 - Build 1.01.20170516
 
 
 Built with crosstool-ng-1.23.0-13-g129e6d3
@@ -23,7 +23,7 @@ URL: https://github.com/crosstool-ng/crosstool-ng.git
 - libiconv-1.15
 - gettext-0.19.8.1
 - binutils-2.28
-- gcc-6.3.0
+- gcc-uber-6.x-20170503
 - glibc-2.25
 - gdb-7.12.1
 
