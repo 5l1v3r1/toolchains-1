@@ -33,7 +33,7 @@
 
 #if _GLIBCXX_HOSTED
 
-#if defined(_GLIBCXX_USE_C99) || defined(__UCLIBC__)
+#if _GLIBCXX_USE_C99
 
 using std::tr1::atoll;
 using std::tr1::strtoll;

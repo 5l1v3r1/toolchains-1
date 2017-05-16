@@ -1,6 +1,6 @@
 # arm-cortexa9_neon-linux-gnueabihf
 
-GCC 4.9.4 - Build 1.00.20170516
+UBER 4.9 - Build 1.00.20170516
 
 
 Built with crosstool-ng-1.23.0-13-g129e6d3
@@ -20,7 +20,7 @@ URL: https://github.com/crosstool-ng/crosstool-ng.git
 - libiconv-1.15
 - gettext-0.19.8.1
 - binutils-2.28
-- gcc-4.9.4
+- gcc-uber-4.9-20161201
 - glibc-2.25
 - gdb-7.12.1
 

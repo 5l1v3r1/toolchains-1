@@ -33,7 +33,7 @@
 
 #include <cstdio>
 
-#if defined(_GLIBCXX_USE_C99) || defined(__UCLIBC__)
+#if _GLIBCXX_USE_C99
 
 namespace std _GLIBCXX_VISIBILITY(default)
 {
