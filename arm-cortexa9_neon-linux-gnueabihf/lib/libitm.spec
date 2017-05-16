@@ -1,0 +1,1 @@
+../../arm-cortexa9_neon-linux-gnueabihf/sysroot/lib/libitm.spec
