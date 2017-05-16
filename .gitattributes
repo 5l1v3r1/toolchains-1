@@ -1,0 +1,2 @@
+arm-cortexa9_neon-linux-gnueabihf/sysroot/usr/lib/locale/locale-archive filter=lfs diff=lfs merge=lfs -text
+
